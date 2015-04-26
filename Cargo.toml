@@ -1,0 +1,4 @@
+[package]
+name = "iter_reader"
+version = "0.1.0"
+authors = ["Raphael Speyer <rspeyer@gmail.com>"]
